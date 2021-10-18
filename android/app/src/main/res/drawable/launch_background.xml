@@ -7,6 +7,6 @@
     <item>
         <bitmap
             android:gravity="center"
-            android:src="@drawable/rollingdice" />
+            android:src="@drawable/dice6" />
     </item>
 </layer-list>
